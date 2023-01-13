@@ -1,0 +1,30 @@
+{
+    "prefix": ".",
+    "voiceChannelID": "1062014853398671372",
+
+
+    "presence": {
+        "name": "Vannesaya Hizmet Veriyor",
+        "type": "LISTENING"
+    },
+
+    "rol": {
+        "booster": ""
+    },
+
+    "kayıt": {
+        "kayıtsızID": "1062014851414769720",
+        "erkekID": "1062014851494457355",
+        "kızID": "1062014851494457358",
+        "kayıtYetkiliID": "1062014851754491912",
+
+        "kayıtchatID": "1062014853398671370",
+
+        "tag": "✦",
+        "kayıtsızNick": "İsim | Yaş"
+    },
+
+    "emoji": {
+        "amblem": ""
+    }
+}
